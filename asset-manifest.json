@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.cdd3f9e0.chunk.css",
+    "main.js": "/Portfolio/static/js/main.7ae0fb9c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.7ae0fb9c.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.c65a14fc.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.c65a14fc.js.map",
+    "static/js/2.897547a5.chunk.js": "/Portfolio/static/js/2.897547a5.chunk.js",
+    "static/js/2.897547a5.chunk.js.map": "/Portfolio/static/js/2.897547a5.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.cdd3f9e0.chunk.css.map": "/Portfolio/static/css/main.cdd3f9e0.chunk.css.map",
+    "static/js/2.897547a5.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.897547a5.chunk.js.LICENSE.txt",
+    "static/media/Alaram.45988cc9.PNG": "/Portfolio/static/media/Alaram.45988cc9.PNG",
+    "static/media/Analog.334db02f.PNG": "/Portfolio/static/media/Analog.334db02f.PNG",
+    "static/media/E-commerce.0778f539.PNG": "/Portfolio/static/media/E-commerce.0778f539.PNG",
+    "static/media/Me.ddd44cb8.PNG": "/Portfolio/static/media/Me.ddd44cb8.PNG",
+    "static/media/Music.93954f90.PNG": "/Portfolio/static/media/Music.93954f90.PNG",
+    "static/media/Photo2.d39fbb32.jpg": "/Portfolio/static/media/Photo2.d39fbb32.jpg",
+    "static/media/email.dbf14da7.png": "/Portfolio/static/media/email.dbf14da7.png",
+    "static/media/git.a7cb412d.png": "/Portfolio/static/media/git.a7cb412d.png",
+    "static/media/linkedin.2b5ba91b.jpg": "/Portfolio/static/media/linkedin.2b5ba91b.jpg",
+    "static/media/photo1.4c21ae36.jpg": "/Portfolio/static/media/photo1.4c21ae36.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c65a14fc.js",
+    "static/js/2.897547a5.chunk.js",
+    "static/css/main.cdd3f9e0.chunk.css",
+    "static/js/main.7ae0fb9c.chunk.js"
+  ]
+}
