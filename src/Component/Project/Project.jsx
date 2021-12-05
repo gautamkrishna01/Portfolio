@@ -21,31 +21,35 @@ export const Project = () => {
              <img src={Music} />
              <p>Music App</p>
              <a href="https://gautamkrishna01.github.io/Music-_App/">  Demo </a>
-        
- 
+             <h5 className="techstack">Tech Stack:Html,Css,Javascript</h5>
            </div>
+          
            <div className="project-box">
              <img src={Alarm} />
              <p>Alarm clock</p>
              <a href="https://gautamkrishna01.github.io/Alarm-Clock/" className="demo">  Demo </a>
+             <h5 className="techstack">Tech Stack:Html,Css,Javascript</h5>
         
            </div>
            <div className="project-box">
              <img src={Analog} />
              <p>Analog-Clock</p>
              <a href="https://gautamkrishna01.github.io/Analog-clock/">Demo </a>
+             <h5 className="techstack">Tech Stack:Html,Css,Javascript</h5>
         
            </div>
            <div className="project-box">
              <img src={Commerce} />
              <p>E-Commerce</p>
              <a href="https://gautamkrishna01.github.io/E-Commerce/"> Demo </a>
+             <h5 className="techstack">Tech Stack:Html,Css,Javascript</h5>
         
            </div>
            <div className="project-box">
              <img src={Me} />
              <p>Portfolio</p>
              <a href="gautamkrishna01.github.io/Portfolio">  Demo </a>
+             <h5 className="techstack">Tech Stack:Html,Css,React</h5>
         
            </div>
           </div>
