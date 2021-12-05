@@ -1,0 +1,78 @@
+
+#project
+{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ margin: 50px,0px;
+ margin-top: 10rem;
+ list-style: none;
+ height: 100vh;
+}
+.project-heading
+{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.project-heading h3
+{
+    font-size: 2.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color:red;
+}
+.project-heading span
+{
+    color: #f33c3c;
+}
+.project-filter li 
+{
+ margin: 10px;
+ padding: 5px 20px;
+ color: #9b9b9b;
+ font-size: 1rem;
+ letter-spacing: 0.5px;
+ font-weight: 400;
+ cursor: pointer;
+ user-select: none;
+}
+.project-filter-active
+{
+    background-color: #f0f0f0;
+    color: #272727;
+}
+.project-container
+{
+    display: flex;
+}
+.project-box img
+{
+
+    height: 190px;
+    width: 190px;
+    padding: 30px;
+}
+.project-box p
+{
+    margin-left: 60px;
+    font-size: 20px;
+    position: relative;
+    bottom: 25px;
+}
+.project-box a
+{
+    margin-left: 80px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+}
+.techstack
+{
+    margin-left: 40px;
+    margin-top: 20px;
+    color:blue;
+}

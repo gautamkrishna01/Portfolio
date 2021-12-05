@@ -1,0 +1,145 @@
+.Skilles-intro
+{
+    font-size: 40px;
+    color: red;
+}
+.skilles
+{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    padding: auto;
+    margin-top: 20em;
+}
+.skilles-bar
+{
+    width: 600px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0,0, 0.2);
+}
+.skilles-bar .bar 
+{
+    margin: 20px 0;
+}
+.skilles-bar .bar:first-child
+{
+    margin-top: 0px;
+}
+.skilles-bar .bar .info span
+{
+    font-size: 17px;
+    font-weight: 500;
+}
+.progress-bar
+{
+    position: relative;
+    height: 10px;
+    width: 100%;
+    background-color:#f0f0f0;
+    border-radius: 10px;
+    transform: scaleX(0);
+    transform-origin:left ;
+    box-shadow: inset 0px 1px 1px rgba(0, 0,0, 0.5),
+                    0px 1px rgba(255, 255, 255, 0.8);
+    animation: animate 1s cubic-bezier(1,0,0.5,1) forwards;
+}
+.progress-bar .info
+{
+margin-bottom: 5px;
+}
+
+.progress-bar span
+{
+    height: 100%;
+    width: 80%;
+    background-color: #6665ee;
+    position: absolute;
+    border-radius: 10px;
+    transform:scaleX(0);
+    transform-origin: left;
+    animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
+
+}
+@keyframes animate {
+
+    100%
+    {
+        transform: scaleX(1);
+    }
+}
+.progress-bar.html span
+{
+    width: 70%
+
+}
+.progress-bar.css span
+{
+    width: 60%;
+
+}
+.progress-bar.Javascript span
+{
+    width: 70%;
+
+}
+.progress-bar.react span
+{
+    width: 60%;
+
+}
+.progress-bar.node span
+{
+    width: 60%;
+
+}
+.progress-bar.mongo span
+{
+    width: 50%;
+
+}
+.progress-bar span::after
+{
+    position: absolute;
+    right: 0;
+    top: -28px;
+    background: #000;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    background: #000;
+    padding: 1px 8px;
+    border-radius: 3px;
+
+}
+.progress-bar.html span::after
+{
+    content: "70%";
+
+}
+.progress-bar.css span::after
+{
+    content: "60%";
+
+}
+.progress-bar.Javascript span::after
+{
+    content: "70%";
+
+}
+.progress-bar.react span::after
+{
+    content: "60%";
+
+}
+.progress-bar.node span::after
+{
+    content: "60%";
+
+}
+.progress-bar.mongo span::after
+{
+    content: "50%";
+
+}
