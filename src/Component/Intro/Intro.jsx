@@ -17,7 +17,7 @@ export const Intro = () => {
                     </div>
                 </div>
                 <div className="botton">
-                    <button className="btn-1"> <a href="https://drive.google.com/file/d/17SpkUHKv8c2teuPcvt72N9rb1wnWjfuy/view?usp=sharing" >Download CV</a></button>
+                    <button className="btn-1"> <a href="https://drive.google.com/file/d/1Xx5Gh1_iUA4ABb7IBAV0mVqXdE96bjKj/view?usp=sharing" >Download CV</a></button>
                     <button className="btn-2"> <a href ="Contact.jsx">Hire Me </a></button></div>
             </div>
             <div className="i-right">
