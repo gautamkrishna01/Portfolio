@@ -48,7 +48,7 @@ export const Project = () => {
            <div className="project-box">
              <img src={Me} />
              <p>Portfolio</p>
-             <a href="gautamkrishna01.github.io/Portfolio">  Demo </a>
+             <a href="https://gautamkrishna01.github.io/Portfolio/">  Demo </a>
              <h5 className="techstack">Tech Stack:Html,Css,React</h5>
         
            </div>
